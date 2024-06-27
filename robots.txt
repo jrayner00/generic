@@ -1,0 +1,78 @@
+User-agent: AdsBot-Google
+Disallow:
+
+User-agent: Googlebot-Image
+Disallow:
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: Barkrowler
+Disallow: /
+
+User-agent: serpstatbot
+Disallow: /
+
+User-agent: GeedoBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: VelenPublicWebCrawler
+Disallow: /
+
+User-agent: TurnitinBot
+Disallow: /
+
+User-agent: Riddler
+Disallow: /
+
+User-agent: *
+Disallow: /404/
+Disallow: /ApiPhp/
+Disallow: /LICENSE.html
+Disallow: /LICENSE.txt
+Disallow: /LICENSE_AFL.txt
+Disallow: /STATUS.txt
+Disallow: /app/
+Disallow: /catalog/
+Disallow: /catalogsearch/
+Disallow: /catalogutils/
+Disallow: /cgi-bin/
+Disallow: /checkout/
+Disallow: /control/
+Disallow: /cron.php
+Disallow: /cron.sh
+Disallow: /customer/
+Disallow: /customize/
+Disallow: /error_log
+Disallow: /includes/
+Disallow: /index.php/
+Disallow: /install.php
+Disallow: /lib/
+Disallow: /magento/
+Disallow: /media/oms/
+Disallow: /pkginfo/
+Disallow: /report/
+Disallow: /review/
+Disallow: /sendfriend/
+Disallow: /stats/
+Disallow: /var/
+Disallow: /*.php$
+Disallow: /*/productreviewscollection/
+Disallow: /*/questionanswerscollection/
+Disallow: /*?
+Disallow: /*SID=
+Allow: /*?p=*
+
+Sitemap: https://www.mysite.com.hk/sitemap.xml
